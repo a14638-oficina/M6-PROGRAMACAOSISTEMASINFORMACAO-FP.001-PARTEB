@@ -16,4 +16,4 @@ O projeto foi desenvolvido pelo Joaquim
 
 O projeto Inventário OFICINA tem como objetivo principal oferecer uma solução robusta e visualmente apelativa para a gestão de computadores em um ambiente escolar.O projeto foca-se na organização eficiente de equipamentos por salas, permitindo um controlo rigoroso sobre o hardware disponível e o software instalado em cada posto de trabalho, facilitando a manutenção e a localização rápida de recursos.
 
-
+<h3>Funcionalidades Desenvolvidas</h3>
