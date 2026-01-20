@@ -6,6 +6,6 @@ O projeto tem a nomenclatura de inventario OFICINA
 
 O projeto foi desenvolvido pelo Joaquim
 
-Turma / Disciplina / Módulo
-
- 2I   /   REDES    /  M6
+| Turma | Disciplina | Módulo |
+|:-----:|:----------:|:------:|
+| 2I    | REDES      | M6     |
