@@ -2,4 +2,4 @@
 
 <h2>Identificação do Projeto</h2>
 
-O projeto tem a nomenclatura de 
+O projeto tem a nomenclatura de # inventario OFICINA
