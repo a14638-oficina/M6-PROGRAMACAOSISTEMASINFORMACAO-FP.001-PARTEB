@@ -1,19 +1,88 @@
-# Desenvolvimento de Interface Web para Inventário de Computadores (PHP + SQL) - PARTE B
+#  📊 Inventário de Computadores – Aplicação Web (PHP + SQL)
 
-<h2>Identificação do Projeto</h2>
+## 👤 Identificação
+- **Nome do aluno:**  
+- **Turma:**  
+- **Disciplina:** REDES – M6 – Programação de Sistemas de Informação  
+- **Curso:** GPSI – 2.º Ano  
 
-O projeto tem a nomenclatura de inventario OFICINA
+---
 
-O projeto foi desenvolvido pelo Joaquim
+## 🎯 Objetivo do Projeto
+Este projeto consiste no desenvolvimento de uma aplicação web para gestão e consulta de um inventário de computadores de uma sala informática, utilizando PHP para a lógica da aplicação e SQL para a base de dados.
 
-| Turma | Disciplina | Módulo |
-|:-----:|:----------:|:------:| 
-| 2I    | REDES      | M6     |
+A aplicação permite consultar informações técnicas dos computadores e o software instalado em cada equipamento.
 
-<h2>Descrição Geral do Projeto</h2>
-<h3>Objetivo da aplicação</h3>
-<h4>O que a aplicação permite fazer</h4>
+---
 
-O projeto Inventário OFICINA tem como objetivo principal oferecer uma solução robusta e visualmente apelativa para a gestão de computadores em um ambiente escolar.O projeto foca-se na organização eficiente de equipamentos por salas, permitindo um controlo rigoroso sobre o hardware disponível e o software instalado em cada posto de trabalho, facilitando a manutenção e a localização rápida de recursos.
+## 🧱 Estrutura Geral do Projeto
+Descrição sucinta da estrutura do projeto, por exemplo:
+- Organização das pastas;
+- Ficheiros principais (index.php, ligação à base de dados, páginas de detalhe, etc.);
+- Estrutura geral da base de dados.
 
-<h3>Funcionalidades Desenvolvidas</h3>
+---
+
+## ⚙️ Funcionalidades Desenvolvidas
+Lista das funcionalidades que foram efetivamente implementadas no projeto:
+
+- [ ] Ligação à base de dados com PHP (PDO)
+- [ ] Listagem de computadores por sala
+- [ ] Visualização das características técnicas de cada computador
+- [ ] Consulta do software instalado
+- [ ] Página de detalhe por computador
+- [ ] Pesquisa por nome de computador
+- [ ] Pesquisa por software
+- [ ] Organização do dashboard
+- [ ] Melhorias visuais no interface (cores, layout, ícones)
+- [ ] Outras funcionalidades (especificar):
+
+---
+
+## 🤖 Utilização da Inteligência Artificial (IA)
+Nesta secção descrevo de forma clara como utilizei Inteligência Artificial no desenvolvimento do projeto.
+
+### 🔹 Onde utilizei IA
+(Exemplos – apagar os que não se aplicam e acrescentar outros)
+
+- Apoio na escrita ou correção de código PHP  
+- Sugestões para queries SQL  
+- Ajuda na estruturação da base de dados  
+- Melhoria do interface gráfico (CSS / layout)  
+- Implementação da funcionalidade de pesquisa  
+- Organização do dashboard  
+- Resolução de erros ou problemas técnicos  
+
+### 🔹 Como utilizei a IA
+Descrição breve do tipo de apoio recebido, por exemplo:
+- A IA sugeriu exemplos de código que foram adaptados;
+- Ajudou a compreender erros e respetivas correções;
+- Sugeriu melhorias visuais ou estruturais.
+
+---
+
+## ✍️ Trabalho Desenvolvido Manualmente
+Descrição das partes do projeto que foram desenvolvidas diretamente pelo aluno, por exemplo:
+- Adaptação e personalização do código;
+- Implementação final das funcionalidades;
+- Decisões de organização do projeto;
+- Alterações feitas às sugestões da IA.
+
+---
+
+## 🚧 Dificuldades Encontradas
+Descrição das principais dificuldades técnicas ou conceptuais encontradas durante o desenvolvimento do projeto.
+
+---
+
+## 📚 Aprendizagens Realizadas
+Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
+- Ligação entre PHP e base de dados;
+- Organização de um projeto web;
+- Utilização consciente da Inteligência Artificial;
+- Importância da documentação do código.
+
+---
+
+## 🔗 Repositório GitHub
+Link para o repositório do projeto:
