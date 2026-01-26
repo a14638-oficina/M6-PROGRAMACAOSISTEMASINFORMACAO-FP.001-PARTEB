@@ -26,15 +26,15 @@ Descrição sucinta da estrutura do projeto, por exemplo:
 ## ⚙️ Funcionalidades Desenvolvidas
 Lista das funcionalidades que foram efetivamente implementadas no projeto:
 
-- [ ] Ligação à base de dados com PHP (PDO)
-- [ ] Listagem de computadores por sala
-- [ ] Visualização das características técnicas de cada computador
-- [ ] Consulta do software instalado
-- [ ] Página de detalhe por computador
-- [ ] Pesquisa por nome de computador
-- [ ] Pesquisa por software
+- [X] Ligação à base de dados com PHP (PDO)
+- [X] Listagem de computadores por sala
+- [X] Visualização das características técnicas de cada computador
+- [X] Consulta do software instalado
+- [X] Página de detalhe por computador
+- [X] Pesquisa por nome de computador
+- [X] Pesquisa por software
 - [ ] Organização do dashboard
-- [ ] Melhorias visuais no interface (cores, layout, ícones)
+- [X] Melhorias visuais no interface (cores, layout, ícones)
 - [ ] Outras funcionalidades (especificar):
 
 ---
