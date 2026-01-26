@@ -70,7 +70,6 @@ Algumas dificuldades em perceber e criar a pesquisa global.
 Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
 - Ligação entre PHP e base de dados;
 - Organização de um projeto web;
-- Utilização consciente da Inteligência Artificial;
 - Importância da documentação do código.
 
 ---
