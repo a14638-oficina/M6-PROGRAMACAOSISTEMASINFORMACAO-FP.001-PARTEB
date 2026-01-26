@@ -40,7 +40,7 @@ Lista das funcionalidades que foram efetivamente implementadas no projeto:
 ---
 
 ## 🤖 Utilização da Inteligência Artificial (IA)
-Pedi para a IA melhorar o meu código mas para explicar cada linha de forma simples.
+Nesta secção descrevo de forma clara como utilizei Inteligência Artificial no desenvolvimento do projeto.
 
 ### 🔹 Onde utilizei IA
 
