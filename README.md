@@ -1,8 +1,10 @@
 #  📊 Inventário de Computadores – Aplicação Web (PHP + SQL)
 
 ## 👤 Identificação
-- **Nome do aluno:**  
-- **Turma:**  
+- **Nome do aluno:**
+- Joaquim Nogueira Miranda
+- **Turma:**
+- 2I
 - **Disciplina:** REDES – M6 – Programação de Sistemas de Informação  
 - **Curso:** GPSI – 2.º Ano  
 
@@ -62,7 +64,7 @@ A IA foi utilizada de forma a tornar mais apelativo e funcional.
 ---
 
 ## 🚧 Dificuldades Encontradas
-Algumas dificuldades em 
+Algumas dificuldades em perceber e criar a pesquisa global.
 
 ---
 
