@@ -40,13 +40,11 @@ Lista das funcionalidades que foram efetivamente implementadas no projeto:
 ---
 
 ## 🤖 Utilização da Inteligência Artificial (IA)
-Nesta secção descrevo de forma clara como utilizei Inteligência Artificial no desenvolvimento do projeto.
+Pedi para a IA melhorar o meu código mas para explicar cada linha de forma simples.
 
 ### 🔹 Onde utilizei IA
-(Exemplos – apagar os que não se aplicam e acrescentar outros)
 
-- Apoio na escrita ou correção de código PHP  
-- Sugestões para queries SQL  
+- Apoio na escrita ou correção de código PHP
 - Ajuda na estruturação da base de dados  
 - Melhoria do interface gráfico (CSS / layout)  
 - Implementação da funcionalidade de pesquisa  
@@ -54,24 +52,17 @@ Nesta secção descrevo de forma clara como utilizei Inteligência Artificial no
 - Resolução de erros ou problemas técnicos  
 
 ### 🔹 Como utilizei a IA
-Descrição breve do tipo de apoio recebido, por exemplo:
-- A IA sugeriu exemplos de código que foram adaptados;
-- Ajudou a compreender erros e respetivas correções;
-- Sugeriu melhorias visuais ou estruturais.
+A IA foi utilizada de forma a tornar mais apelativo e funcional.
 
 ---
 
 ## ✍️ Trabalho Desenvolvido Manualmente
-Descrição das partes do projeto que foram desenvolvidas diretamente pelo aluno, por exemplo:
-- Adaptação e personalização do código;
-- Implementação final das funcionalidades;
-- Decisões de organização do projeto;
 - Alterações feitas às sugestões da IA.
 
 ---
 
 ## 🚧 Dificuldades Encontradas
-Descrição das principais dificuldades técnicas ou conceptuais encontradas durante o desenvolvimento do projeto.
+Algumas dificuldades em 
 
 ---
 
@@ -86,3 +77,4 @@ Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
 
 ## 🔗 Repositório GitHub
 Link para o repositório do projeto:
+https://a14638-oficina.infinityfree.me/m6-inventario/
